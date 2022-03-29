@@ -1,0 +1,7 @@
+com\ljx\controller\LogAOP.class
+com\ljx\controller\PermissionController.class
+com\ljx\controller\SysLogController.class
+com\ljx\controller\UserController.class
+com\ljx\controller\ProductController.class
+com\ljx\controller\RoleController.class
+com\ljx\controller\OrdersController.class

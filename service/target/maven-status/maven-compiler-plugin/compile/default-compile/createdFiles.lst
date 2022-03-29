@@ -1,0 +1,12 @@
+com\ljx\service\impl\UserServiceImpl.class
+com\ljx\service\ISysLogService.class
+com\ljx\service\impl\ProductService.class
+com\ljx\service\impl\SysLogServiceImpl.class
+com\ljx\service\impl\PermissionServiceImpl.class
+com\ljx\service\IProductService.class
+com\ljx\service\impl\RoleServiceImpl.class
+com\ljx\service\IPermissionService.class
+com\ljx\service\IRoleService.class
+com\ljx\service\IOrdersService.class
+com\ljx\service\IUserService.class
+com\ljx\service\impl\OrderService.class

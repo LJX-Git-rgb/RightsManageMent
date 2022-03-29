@@ -1,0 +1,8 @@
+com\ljx\dao\IProductDao.class
+com\ljx\dao\IMemberDao.class
+com\ljx\dao\ISysLogDao.class
+com\ljx\dao\IUserDao.class
+com\ljx\dao\IRoleDao.class
+com\ljx\dao\IOrderDao.class
+com\ljx\dao\ITravellerDao.class
+com\ljx\dao\IPermissionDao.class

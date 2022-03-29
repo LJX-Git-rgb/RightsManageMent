@@ -1,0 +1,8 @@
+com\ljx\domain\Role.class
+com\ljx\domain\Permission.class
+com\ljx\domain\SysLog.class
+com\ljx\domain\Member.class
+com\ljx\domain\Product.class
+com\ljx\domain\Orders.class
+com\ljx\domain\UserInfo.class
+com\ljx\domain\Traveller.class
